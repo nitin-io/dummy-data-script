@@ -1,0 +1,13 @@
+{
+  "name": "mongodb_dummy_data_generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mongodb": "^6.3.0"
+  },
+  "author": {
+    "name": "Nitin Chaudhary"
+  }
+}
